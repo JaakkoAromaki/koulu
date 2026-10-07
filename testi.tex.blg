@@ -1,0 +1,5 @@
+[0] Config.pm:329> INFO - This is Biber 2.22
+[0] Config.pm:332> INFO - Logfile is 'testi.tex.blg'
+[33] biber:342> INFO - === Tue Oct  6, 2026, 19:56:51
+[79] Utils.pm:480> ERROR - Cannot find 'testi.tex.bcf'!
+[79] Biber.pm:137> INFO - ERRORS: 1

@@ -1,0 +1,1 @@
+Toinen puoli hylkii ja toinen puoli tykkää vedestä. Solun suojarakenne.
